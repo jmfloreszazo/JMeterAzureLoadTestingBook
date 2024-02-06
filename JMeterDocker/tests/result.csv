@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1620212988037,951,GET - Weather Forecast,200,OK,Http URL/API Test 1-1,text,true,,1014,161,1,1,https://jmfloreszjmetertest-dev.azurewebsites.net/weatherforecast,948,0,854
